@@ -60,4 +60,6 @@ function draw(){
     log5.display();
 
     bird.display();
+    ground1.display();
+
 }
